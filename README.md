@@ -1,6 +1,6 @@
 # masterIAgenerativa
 
-Caso de uso 1: Asistencia Personalizada en la Búsqueda de Propiedades. 
+# Caso de uso 1: Asistencia Personalizada en la Búsqueda de Propiedades. 
 
 **Personalización en la Búsqueda de Propiedades:** Los chatbots con IA generativa pueden entender y procesar consultas complejas, lo que permite a los usuarios buscar propiedades basándose en criterios específicos como ubicación, presupuesto, tamaño, características especiales, etc. Esto mejora significativamente la experiencia del usuario al hacer la búsqueda más dirigida y eficiente.
 
@@ -26,7 +26,7 @@ Este caso de uso no solo mejora la eficiencia operativa y la experiencia del cli
 
 
 
-Caso de uso 2: herramienta de aprendizaje y práctica interactiva.
+# Caso de uso 2: herramienta de aprendizaje y práctica interactiva.
 
 Este chatbot puede simular conversaciones reales, permitiendo a los estudiantes practicar inglés en un entorno interactivo y receptivo. Puede ofrecer retroalimentación instantánea, ayudar a los estudiantes a practicar escenarios específicos como entrevistas de trabajo o situaciones de viaje, y proporcionar ejercicios de vocabulario y gramática personalizados. Además, un chatbot de este tipo puede adaptar su nivel de dificultad y contenido a las habilidades específicas de cada estudiante, lo que lo hace ideal para un aprendizaje personalizado y efectivo.
 
